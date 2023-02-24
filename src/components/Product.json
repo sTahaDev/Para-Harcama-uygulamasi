@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name":"Oyuncu Kasası",
+        "imgURL": "https://platincdn.com/3563/pictures/thumb/200X-VFQIYQQVGT12302022104524_1.png",
+        "price": 15000
+    },
+    {
+        "id": 1,
+        "name":"Iphone 11",
+        "imgURL": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113155-1-1_large.jpg",
+        "price": 16000
+    },
+    {
+        "id": 2,
+        "name":"Apple Watch Series 8",
+        "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKU83_VW_34FR+watch-41-alum-midnight-nc-8s_VW_34FR_WF_CO_GEO_TR?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171038000%2C1661971866857",
+        "price": 9200
+    },
+    {
+        "id": 3,
+        "name":"Iphone 14",
+        "imgURL": "https://cdn.cimri.io/image/1000x1000/appleiphoneggbgbramnmpakllceptelefonu_655417276.jpg",
+        "price": 40000
+    },
+    {
+        "id": 4,
+        "name":"Samsung Galaxy S23",
+        "imgURL": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/200/200/productimage/125078922/125078922_0_MC/71156994.png",
+        "price": 26000
+    },
+    {
+        "id": 5,
+        "name":"Projeksiyon",
+        "imgURL": "https://cdn.dsmcdn.com/ty147/product/media/images/20210727/13/112900162/212745470/1/1_org.jpg",
+        "price": 2900
+    },
+    {
+        "id": 6,
+        "name":"Logitech Mekanik KLavye",
+        "imgURL": "https://productimages.hepsiburada.net/s/124/222-222/110000074307412.jpg/format:webp",
+        "price": 1000
+    },
+    {
+        "id": 7,
+        "name":"MSI Gaming Laptop",
+        "imgURL": "https://productimages.hepsiburada.net/s/229/222-222/110000210839550.jpg/format:webp",
+        "price": 87000
+    },
+    {
+        "id": 8,
+        "name":"Audi A6",
+        "imgURL": "https://www.sekizsilindir.com/wp-content/uploads/2018/02/yeni-audi-a6-2019-027.jpg",
+        "price": 1600000
+    }
+   
+    
+]   

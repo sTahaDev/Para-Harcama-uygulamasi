@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Para-Harcama-uygulamasi/static/css/main.b459c799.css",
+    "main.js": "/Para-Harcama-uygulamasi/static/js/main.5cd7d5de.js",
+    "static/js/787.5c0c2f71.chunk.js": "/Para-Harcama-uygulamasi/static/js/787.5c0c2f71.chunk.js",
+    "index.html": "/Para-Harcama-uygulamasi/index.html",
+    "main.b459c799.css.map": "/Para-Harcama-uygulamasi/static/css/main.b459c799.css.map",
+    "main.5cd7d5de.js.map": "/Para-Harcama-uygulamasi/static/js/main.5cd7d5de.js.map",
+    "787.5c0c2f71.chunk.js.map": "/Para-Harcama-uygulamasi/static/js/787.5c0c2f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b459c799.css",
+    "static/js/main.5cd7d5de.js"
+  ]
+}
